@@ -1,0 +1,173 @@
+body{
+    background-color: azure;
+}
+.outer{
+    zoom: 0.8;
+}
+
+.textlogo{
+    text-align: center;
+}
+
+ .textlogo .logo img[id="logo"]{
+   width: 114px;
+    height: 110px;
+
+}
+  .textlogo .text img[id="text"]{
+    
+width: 246px;
+height: 120px;
+} 
+h1{
+    
+    
+text-align: center;
+font-family: "Times New Roman";
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 43px;
+
+/* Black */
+
+color: #000000;
+}
+.username{
+    text-align: center;
+}
+.username label{
+    width: 109px;
+height: 28px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+.username input[type="text"]{
+    width: 249.5px;
+    height: 30px;
+    background: #F4F4F4;
+box-shadow: 0px 2.61105px 2.61209px rgba(0, 0, 0, 0.25);
+border-radius: 5.22417px;
+}
+.password{
+    text-align: center;
+}
+.password label{
+    width: 109px;
+    height: 28px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+
+}
+.password input[type="password"]{
+    width: 249.5px;
+    height: 30px;
+    background: #F4F4F4;
+box-shadow: 0px 2.61105px 2.61209px rgba(0, 0, 0, 0.25);
+border-radius: 5.22417px;
+
+}
+.button{
+    text-align: center;
+}
+.button button{
+    width: 557px;
+height: 49px;
+
+background: #00EFD2;
+border-radius: 5px;
+}
+text{
+
+    font-family: Times New Roman;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+/* identical to box height */
+
+
+/* Black */
+
+color: #000000;
+}
+.forgotsignup{
+    text-align: center;
+}
+a1{
+margin-right: 66px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+/* Marine Blue */
+
+color: #0A6CFF;
+}
+a2 a{
+    
+   margin-left:66px ;
+width: 219px;
+height: 29px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+/* Marine Blue */
+
+color: #0A6CFF;
+}
+.lines .or{
+    text-align: center;
+    font-size: 30px;
+    
+}
+.or:before,
+  .or:after {
+    background-color: #000000;
+    content: "";
+    display: inline-block;
+    height: 5px;
+    font-family: "Times New Roman";
+    position: relative;
+    vertical-align: middle;
+    width: 567px;
+  }
+  
+  .or:before {
+    margin-left: -20%;
+  }
+  
+  .or:after {
+    margin-right: -20%;
+  }
+  .facebookgoogle{
+      text-align: center;
+  }
+  .facebookgoogle .google img[id="goo"]{
+    width: 70px;
+    height: 70px;
+
+  }
+  .facebookgoogle img[id="fac"]{
+    width: 160px;
+    height: 76px;
+    margin-right: 90px;
+
+  }
